@@ -1,0 +1,11 @@
+
+V
+squid:S106X"9Replace this use of System.out or System.err by a logger.(“¶Ëù8¬ĞŠîö,
+gsquid:S1192("IDefine a constant instead of duplicating this literal "employee" 4 times.(¯äß8¬ĞŠîö,
+V
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ı÷½Å8¬ĞŠîö,
+[
+squid:S106N"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8¬ĞŠîö,
+dsquid:S2142M"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â8¬ĞŠîö,
+V
+squid:S106K"9Replace this use of System.out or System.err by a logger.(ÌàÌŠ8¬ĞŠîö,
